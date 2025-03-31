@@ -11,3 +11,11 @@ terraform init
 ```
 terraform plan
 ```
+- Validate the terraform syntax
+```
+terraform validate
+```
+- Format the configuration according to terraform style conventions
+```
+terraform fmt
+```
