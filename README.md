@@ -7,3 +7,7 @@
 ```
 terraform init
 ```
+- Preview the project
+```
+terraform plan
+```
