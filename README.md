@@ -19,3 +19,7 @@ terraform validate
 ```
 terraform fmt
 ```
+- Apply the defined configuration
+```
+terraform apply
+```
